@@ -7,6 +7,7 @@ void test01()
     cout << "hello Linux!" << endl;
     cout << "hello Vscode" << endl;
 }
+//我说git真好用，有没有懂得.
 
 int main(){
     test01();
